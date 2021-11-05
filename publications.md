@@ -1,5 +1,5 @@
 ---
-title: Preprint & Publications
+title: Publications
 ---
 
 # Preprints
