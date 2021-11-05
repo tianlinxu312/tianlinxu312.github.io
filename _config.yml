@@ -20,9 +20,9 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
-
+    
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://tianlinxu312.github.io'
 baseurl: ''
 title: 'Tianlin Xu's website'
 description: 'About me'
@@ -41,8 +41,6 @@ navigation_header:
   url: /publications/
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
 
 # Footer nav
 navigation_footer:
