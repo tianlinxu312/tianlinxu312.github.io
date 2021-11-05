@@ -1,10 +1,9 @@
 ## Hello Hello
 
 I am a final year PhD student of Statistics at London School of Economics. I'm jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). 
-
 My research interests include deep generative models and computer vision.  
 
-You can reach me at firstname.lastname1@gmail.com
+You can reach me at firstname.surname1@gmail.com
 
 # Preprints
 (\* indicates equal contributions. )
@@ -26,7 +25,6 @@ You can reach me at firstname.lastname1@gmail.com
 - **Code**: [TensorFlow 2.x implementation](https://github.com/tianlinxu312/dgcit)
 
 # Publications
-(\* indicates equal contributions. )
 
 [Generative modeling of spatio-temporal weather patterns with extreme event conditioning](https://arxiv.org/pdf/2104.12469.pdf). Klemmer K., Saha S., Kahl M., Xu T., Zhu XX. (2021). AIMOCC workshop, ICLR.
 
@@ -34,7 +32,7 @@ You can reach me at firstname.lastname1@gmail.com
 
 - COT-GAN proposed an objective function, formulated using ideas from Causal Optimal Transport (COT), which naturally encodes an additional temporal causality constraint in order to better learn time dependent data distributions. It is generic for most applications of sequential nature, e.g., video, music, speech, stock prices, etc.  
 
-- :computer: **Code**: [TensorFlow 2.x implementation](https://github.com/tianlinxu312/cot-gan) and [PyTorch implementation](https://github.com/tianlinxu312/cot-gan-pytorch)
+- **Code**: [TensorFlow 2.x implementation](https://github.com/tianlinxu312/cot-gan) and [PyTorch implementation](https://github.com/tianlinxu312/cot-gan-pytorch)
 
 [Variational f-divergence Minimization.](https://arxiv.org/pdf/1907.11891.pdf) Zhang M., Bird T., Habib R., Xu T., & Barber D. (2019). Conference on Neural Information Processing Systems(NeurIPS) workshop.
 
