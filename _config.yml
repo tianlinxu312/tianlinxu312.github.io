@@ -27,7 +27,7 @@ url: "https://tianlinxu312.github.io"
 title: "Tianlin Xu Homepage"
 description: "About me"
 permalink: pretty
-logo: "https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/mine.jpeg"
+logo: "https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/mine.png"
 
 # 3. Gem settings
 paginate: 5 # jekyll-paginate > items per page
