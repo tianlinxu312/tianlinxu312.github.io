@@ -61,6 +61,8 @@ navigation_header:
   url: /
 - title: Publications
   url: /publications/
+- title: Activities
+  url: /activities/
 - title: Blog
   url: /blog/
 
