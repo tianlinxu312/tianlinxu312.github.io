@@ -1,3 +1,5 @@
+remote_theme: daviddarnes/alembic@main
+
 # File excludes
 exclude:
 - README.md
@@ -20,7 +22,6 @@ plugins:
     
 # Site settings
 url: "https://tianlinxu312.github.io"
-baseurl: ''
 title: "Tianlin Xu Homepage"
 description: "About me"
 permalink: pretty
