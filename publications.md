@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Preprints | Publications 
 ---
 
 # Preprints
@@ -25,9 +25,4 @@ title: Publications
 **Code**: [TensorFlow 2.x implementation](https://github.com/tianlinxu312/cot-gan) and [PyTorch implementation](https://github.com/tianlinxu312/cot-gan-pytorch)
 
 [Variational f-divergence Minimization.](https://arxiv.org/pdf/1907.11891.pdf) Zhang M., Bird T., Habib R., Xu T., & Barber D. (2019). Conference on Neural Information Processing Systems(NeurIPS) workshop.
-
-# Volunteer work in ML community
-
-- Volunteer poster mentor for WiML 2020 workshop at NeurIPS
-- Super volunteer for the WiML 2021 workshop at NeurIPS
 
