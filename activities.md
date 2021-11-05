@@ -1,5 +1,5 @@
 ---
-title: Activatives
+title: Activities
 ---
 
 - Volunteer poster mentor for WiML 2020 workshop at NeurIPS
