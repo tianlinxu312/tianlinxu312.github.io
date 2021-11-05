@@ -6,6 +6,7 @@ exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
+- .jekyll-cache
 
 # Set plugins
 plugins:
@@ -37,7 +38,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Publications
-  url: /publications
+  url: /publications/
 - title: Blog
   url: /blog/
 
