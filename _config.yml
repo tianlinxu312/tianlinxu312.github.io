@@ -6,6 +6,8 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - .jekyll-cache
+- imgs
+- vendor
 
 # Set plugins
 plugins:
@@ -25,7 +27,7 @@ url: "https://tianlinxu312.github.io"
 title: "Tianlin Xu Homepage"
 description: "About me"
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/mine.jpeg"
 
 # 3. Gem settings
 paginate: 5 # jekyll-paginate > items per page
