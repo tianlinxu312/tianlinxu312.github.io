@@ -37,7 +37,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Publications
-  url: /publications/
+  url: /publications
 - title: Blog
   url: /blog/
 
