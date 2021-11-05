@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## Hi there
 
-You can use the [editor on GitHub](https://github.com/tianlinxu312/tianlinxu312.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a final year PhD student of Statistics :game_die:  at London School of Economics. I'm jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🔭 Currently working on deep generative models.  
+
+- 🌱 I’m interested in teaching machines how to see :eyes: , speak :mega: , sing :musical_score: , draw :art: , think :brain: and act :running: .  
+
+- :e-mail: How to reach me: tianlin.xu1@gmail.com
+
+## :scroll:Preprints :scroll:
+(\* indicates equal contributions. )
+
+## :scroll: Publications :scroll:
+(\* indicates equal contributions. )
 
 ### Markdown
 
