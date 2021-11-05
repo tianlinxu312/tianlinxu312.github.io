@@ -41,6 +41,8 @@ navigation_header:
   url: /publications/
 - title: Blog
   url: /blog/
+- title: Categories
+  url: /categories/
 
 # Footer nav
 navigation_footer:
