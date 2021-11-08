@@ -19,10 +19,14 @@ title: Preprints | Publications
 # Publications
 
 [Generative modeling of spatio-temporal weather patterns with extreme event conditioning](https://arxiv.org/pdf/2104.12469.pdf). Klemmer K., Saha S., Kahl M., Xu T., Zhu XX. (2021). AIMOCC workshop, ICLR.
+<p align="center">
+<img src="./imgs/iclrw.png" width="600" alt="cotgan">
+</p>
 
 [COT-GAN: Generating Sequential Data via Causal Optimal Transport.](https://papers.nips.cc/paper/2020/file/641d77dd5271fca28764612a028d9c8e-Paper.pdf) Xu T., Wenliang L., Munn M, & Acciaio B. (2020). Conference on Neural Information Processing Systems(NeurIPS).
-<img src="https://github.com/tianlinxu312/tianlinxu312.github.io/blob/raw/imgs/cotgan.png" width="350" alt="accessibility text">
-
+<p align="center">
+<img src="./imgs/cotgan.png" width="600" alt="cotgan">
+</p>
 
 **Code**: [TensorFlow 2.x implementation](https://github.com/tianlinxu312/cot-gan) and [PyTorch implementation](https://github.com/tianlinxu312/cot-gan-pytorch)
 
