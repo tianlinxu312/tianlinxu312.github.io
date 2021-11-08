@@ -6,10 +6,10 @@ title: Talks and Tutorials
 
 # Teaching 
 
-## MSc
+#### MSc
 - 2019-2020 Lent term: LSE ST449 Artificial Intelligence and Deep Learning
 
-## BSc
+#### BSc
 - 2021 Lent term: LSE ST101 Programming for Data Science (Python)
 - 2019 Michaelmas term: LSE ST202 Probability, Distribution Theory and Inference
 - 2019 Summer school: ME116 Essential Statistics for Economics and Econometrics
