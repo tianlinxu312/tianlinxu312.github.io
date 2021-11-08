@@ -3,7 +3,7 @@ title: Activities
 ---
 
 # Talks and Tutorials 
-- 30th Aug 30 - 3rd Sep 2021 - **Tutorial on Causal Optimal Transport** at 14th European Summer School in Financial Mathematics
+- Aug 30 - Sep 03 2021 - **Tutorial on Causal Optimal Transport** at 14th European Summer School in Financial Mathematics
 
 # Teaching 
 - 2021 Lent term: LSE ST101 Programming for Data Science (Python)
