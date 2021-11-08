@@ -12,6 +12,7 @@ title: Talks and Tutorials
 ## BSc
 - 2021 Lent term: LSE ST101 Programming for Data Science (Python)
 - 2019 Michaelmas term: LSE ST202 Probability, Distribution Theory and Inference
+- 2019 Summer school: ME116 Essential Statistics for Economics and Econometrics
 
 # Volunteer Work
 - Super volunteer for the WiML 2021 workshop at NeurIPS
