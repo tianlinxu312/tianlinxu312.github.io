@@ -1,4 +1,7 @@
-# Talks and Tutorials 
+---
+title: Talks and Tutorials 
+---
+
 - Aug 30 - Sep 03 2021 - **Tutorial on Causal Optimal Transport** at 14th European Summer School in Financial Mathematics
 
 # Teaching 
