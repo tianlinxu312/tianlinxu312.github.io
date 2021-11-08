@@ -78,7 +78,7 @@ collections:
     output: true
     description: "Ideas and paper reviews."
     feature_text: 
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/abstract.jpg"
     
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
