@@ -4,7 +4,7 @@ title: Talks and Tutorials
 
 - Aug 30 - Sep 03 2021 - **Tutorial on Causal Optimal Transport** at 14th European Summer School in Financial Mathematics
 
-# Teaching 
+# Teaching Assistant 
 
 #### MSc
 - 2019-2020 Lent term: LSE ST449 Artificial Intelligence and Deep Learning
