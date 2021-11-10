@@ -2,27 +2,27 @@
 title: Preprints | Publications 
 ---
 
-## Preprints
+### Preprints
 (\* indicates equal contributions. )
 
-<sub>[Quantized Conditional COT-GAN for Video Prediction](https://arxiv.org/pdf/2106.05658.pdf) Xu T. & Acciaio B. (2021). Under review.  
+[Quantized Conditional COT-GAN for Video Prediction](https://arxiv.org/pdf/2106.05658.pdf) Xu T. & Acciaio B. (2021). Under review.  
 
 
-<sub>[SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss](https://arxiv.org/pdf/2109.15044.pdf) Klemmer K.\*, Xu T.\*, Acciaio B. and Neill D. (2021). Under review. 
+[SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss](https://arxiv.org/pdf/2109.15044.pdf) Klemmer K.\*, Xu T.\*, Acciaio B. and Neill D. (2021). Under review. 
 
-<sub>**Code**: [PyTorch implementation](https://github.com/konstantinklemmer/spate-gan)
+**Code**: [PyTorch implementation](https://github.com/konstantinklemmer/spate-gan)
 
-<sub>[Double Generative Adversarial Networks for Conditional Independence Testing.](https://arxiv.org/pdf/2006.02615.pdf) Shi C., Xu T., Bergsma W, & Li L. (2021+). The Journal of Machine Learning Research, accepted.
+[Double Generative Adversarial Networks for Conditional Independence Testing.](https://arxiv.org/pdf/2006.02615.pdf) Shi C., Xu T., Bergsma W, & Li L. (2021+). The Journal of Machine Learning Research, accepted.
 
-<sub>**Code**: [TensorFlow 2.x implementation](https://github.com/tianlinxu312/dgcit)</sub>
+**Code**: [TensorFlow 2.x implementation](https://github.com/tianlinxu312/dgcit)
 
-## Publications
+### Publications
 
-<sub>[Generative modeling of spatio-temporal weather patterns with extreme event conditioning](https://arxiv.org/pdf/2104.12469.pdf). Klemmer K., Saha S., Kahl M., Xu T., Zhu XX. (2021). AIMOCC workshop, ICLR.
+[Generative modeling of spatio-temporal weather patterns with extreme event conditioning](https://arxiv.org/pdf/2104.12469.pdf). Klemmer K., Saha S., Kahl M., Xu T., Zhu XX. (2021). AIMOCC workshop, ICLR.
 
-<sub>[COT-GAN: Generating Sequential Data via Causal Optimal Transport.](https://papers.nips.cc/paper/2020/file/641d77dd5271fca28764612a028d9c8e-Paper.pdf) Xu T., Wenliang L., Munn M, & Acciaio B. (2020). Conference on Neural Information Processing Systems(NeurIPS).
+[COT-GAN: Generating Sequential Data via Causal Optimal Transport.](https://papers.nips.cc/paper/2020/file/641d77dd5271fca28764612a028d9c8e-Paper.pdf) Xu T., Wenliang L., Munn M, & Acciaio B. (2020). Conference on Neural Information Processing Systems(NeurIPS).
 
-<sub>**Code**: [TensorFlow 2.x implementation](https://github.com/tianlinxu312/cot-gan) and [PyTorch implementation](https://github.com/tianlinxu312/cot-gan-pytorch)
+**Code**: [TensorFlow 2.x implementation](https://github.com/tianlinxu312/cot-gan) and [PyTorch implementation](https://github.com/tianlinxu312/cot-gan-pytorch)
 
-<sub>[Variational f-divergence Minimization.](https://arxiv.org/pdf/1907.11891.pdf) Zhang M., Bird T., Habib R., Xu T., & Barber D. (2019). Conference on Neural Information Processing Systems(NeurIPS) workshop. </sub>
+[Variational f-divergence Minimization.](https://arxiv.org/pdf/1907.11891.pdf) Zhang M., Bird T., Habib R., Xu T., & Barber D. (2019). Conference on Neural Information Processing Systems(NeurIPS) workshop.
 
