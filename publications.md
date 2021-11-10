@@ -22,7 +22,7 @@ Double Generative Adversarial Networks for Conditional Independence Testing. Shi
 Generative modeling of spatio-temporal weather patterns with extreme event conditioning. Klemmer K., Saha S., Kahl M., Xu T., Zhu XX. (2021). AIMOCC workshop, ICLR.  [[Paper]](https://arxiv.org/pdf/2104.12469.pdf)
 {% include figure.html image="https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/iclrw.png" alt="Image with just alt text" %}
 
-COT-GAN: Generating Sequential Data via Causal Optimal Transport. Xu T., Wenliang L., Munn M, & Acciaio B. (2020). Conference on Neural Information Processing Systems(NeurIPS). [[Paper]](https://papers.nips.cc/paper/2020/file/641d77dd5271fca28764612a028d9c8e-Paper.pdf) [[TensorFlow 2.x implementation]](https://github.com/tianlinxu312/cot-gan) and [[PyTorch implementation]](https://github.com/tianlinxu312/cot-gan-pytorch) 
+COT-GAN: Generating Sequential Data via Causal Optimal Transport. Xu T., Wenliang L., Munn M, & Acciaio B. (2020). Conference on Neural Information Processing Systems(NeurIPS). [[Paper]](https://papers.nips.cc/paper/2020/file/641d77dd5271fca28764612a028d9c8e-Paper.pdf) [[TensorFlow 2.x implementation]](https://github.com/tianlinxu312/cot-gan) [[PyTorch implementation]](https://github.com/tianlinxu312/cot-gan-pytorch) 
 {% include figure.html image="https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/cotgan.png" alt="Image with just alt text" %}
 
 Variational f-divergence Minimization. Zhang M., Bird T., Habib R., Xu T., & Barber D. (2019). Conference on Neural Information Processing Systems(NeurIPS) workshop. [[Paper]](https://arxiv.org/pdf/1907.11891.pdf)
