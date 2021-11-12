@@ -63,7 +63,7 @@ navigation_header:
   url: /publications/
 - title: Activities
   url: /activities/
-- title: Blog
+- title: Projects
   url: /blog/
 
 # Footer nav
@@ -74,9 +74,9 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Projects and ideas
     output: true
-    description: "Ideas and paper reviews."
+    description: "Some random fun projects."
     feature_text: 
     feature_image: "https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/blue.jpg"
     
