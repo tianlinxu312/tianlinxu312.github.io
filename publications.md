@@ -2,9 +2,9 @@
 title: Preprints | Publications 
 ---
 
-### Preprints
-
 <small> (\* indicates equal contributions. ) </small> 
+
+### Preprints
 
 Quantized Conditional COT-GAN for Video Prediction. Xu T. & Acciaio B. (2021). Under review. [[Paper]](https://arxiv.org/pdf/2106.05658.pdf)
 
