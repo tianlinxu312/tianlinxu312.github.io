@@ -76,7 +76,7 @@ collections:
   posts:
     title: Projects and ideas
     output: true
-    description: "Some random fun projects."
+    description: "Random projects for fun."
     feature_text: 
     feature_image: "https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/blue.jpg"
     
