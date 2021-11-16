@@ -4,7 +4,7 @@ title: Activities
 
 ### Talks and Tutorials 
 - Aug 30 - Sep 03 2021 - **Tutorial on Causal Optimal Transport** @ 14th European Summer School in Financial Mathematics
-- Jun 19 2021 **Poster presentation on video summarization** @ Women in Computer Vision Workshop CVPR 2021
+- Jun 19 2021 - **Poster presentation on video summarization** @ Women in Computer Vision Workshop CVPR 2021
 
 ### Teaching Assistant 
 
