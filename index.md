@@ -13,5 +13,7 @@ I am a final year PhD student of Statistics at London School of Economics. I'm j
 
 {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=KPrpfPsAAAAJ&hl=en" %} {% include button.html text="Github" icon="github" link="https://github.com/tianlinxu312" color="#100008" %} {% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/tianlinxu" color="#fc75b5" %}{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/linylinx" color="#0d94e7" %} 
 
+# Contact Me
+
 {% include site-form.html name="Contact Me"%}
 
