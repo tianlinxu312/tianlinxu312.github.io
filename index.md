@@ -9,12 +9,9 @@ excerpt: "I am a final year PhD student of Statistics at London School of Econom
 
 I am a final year PhD student of Statistics at London School of Economics. I'm jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). Before starting my PhD, I did my undergraduate study in Computer Science and masters in Mathematical Finance. My current research interests lie in deep generative models and computer vision.
 
-{% include icon.html id="home" title="home" text="df"%}
+{% include icon.html id="location" title="location" text="df"%}
 {% include icon.html id="email" title="email" text="firstname.surname1@gmail.com"%}
 
 {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=KPrpfPsAAAAJ&hl=en" %} {% include button.html text="Github" icon="github" link="https://github.com/tianlinxu312" color="#100008" %} {% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/tianlinxu" color="#fc75b5" %}{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/linylinx" color="#0d94e7" %} 
 
-# Contact Me
-
-{% include site-form.html name="Contact Me"%}
 
