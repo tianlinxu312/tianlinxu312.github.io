@@ -12,4 +12,6 @@ I am a final year PhD student of Statistics at London School of Economics. I'm j
 
 {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=KPrpfPsAAAAJ&hl=en" color="#e6b800" %} {% include button.html text="Github" icon="github" link="https://github.com/tianlinxu312" color="#100008" %} {% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/tianlinxu" color="#ffb3b3" %}{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/linylinx" color="#0d94e7" %} {% include button.html icon="email" text="Email" link="mailto:tianlin.xu1@gmail.com" color="#bf80ff"%}
 
+# News
 
+2-Nov-2021 Our paper [Double Generative Adversarial Networks for Conditional Independence Testing](https://arxiv.org/pdf/2006.02615.pdf) was accepted by JMLR.  
