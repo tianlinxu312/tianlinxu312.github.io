@@ -14,4 +14,4 @@ I am a final year PhD student of Statistics at London School of Economics. I'm j
 
 # News
 
-2-Nov-2021 Our paper [Double Generative Adversarial Networks for Conditional Independence Testing](https://arxiv.org/pdf/2006.02615.pdf) was accepted by JMLR.  
+02 Nov 2021 - Our paper [Double Generative Adversarial Networks for Conditional Independence Testing](https://arxiv.org/pdf/2006.02615.pdf) was accepted by JMLR.  
