@@ -12,7 +12,8 @@ SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with
 
 ### Publications
 
-Double Generative Adversarial Networks for Conditional Independence Testing. Shi C., Xu T., Bergsma W, & Li L. (2021+). The Journal of Machine Learning Research, accepted. [[Paper]](https://arxiv.org/pdf/2006.02615.pdf) [[Code]](https://github.com/tianlinxu312/dgcit) 
+Double Generative Adversarial Networks for Conditional Independence Testing. Shi C., Xu T., Bergsma W, & Li L. (2021+). 
+Journal of Machine Learning Research 22 (2021) 1-32. [[Paper]](https://arxiv.org/pdf/2006.02615.pdf) [[Code]](https://github.com/tianlinxu312/dgcit) 
 
 Generative modeling of spatio-temporal weather patterns with extreme event conditioning. Klemmer K., Saha S., Kahl M., Xu T., Zhu XX. (2021). AIMOCC workshop, ICLR.  [[Paper]](https://arxiv.org/pdf/2104.12469.pdf)
 
