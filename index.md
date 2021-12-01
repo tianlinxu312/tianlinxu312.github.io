@@ -14,4 +14,6 @@ I am a final year PhD student of Statistics at London School of Economics, joint
 
 # News
 
+01 Dec 2021 - Our paper [SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss](https://arxiv.org/pdf/2109.15044.pdf) was accepted for presentation by AAAI.  
+
 02 Nov 2021 - Our paper [Double Generative Adversarial Networks for Conditional Independence Testing](https://arxiv.org/pdf/2006.02615.pdf) was accepted by JMLR.  
