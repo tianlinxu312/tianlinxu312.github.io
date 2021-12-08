@@ -6,7 +6,7 @@ title: Preprints | Publications
 
 ### Preprints
 
-Quantized Conditional COT-GAN for Video Prediction. Xu T. & Acciaio B. (2021). Under review. [[Paper]](https://arxiv.org/pdf/2106.05658.pdf)
+Quantized Conditional COT-GAN for Video Prediction. Xu T. & Acciaio B. (2021). Preprint. [[Paper]](https://arxiv.org/pdf/2106.05658.pdf)
 
 SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss. Klemmer K.\*, Xu T.\*, Acciaio B. and Neill D. (2021+). AAAI, accepted. [[Paper]](https://arxiv.org/pdf/2109.15044.pdf) [[Code]](https://github.com/konstantinklemmer/spate-gan)
 
