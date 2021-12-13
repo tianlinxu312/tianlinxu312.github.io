@@ -16,7 +16,7 @@ title: Activities
 - 2019 Michaelmas term: LSE ST202 Probability, Distribution Theory and Inference
 - 2019 Summer school: ME116 Essential Statistics for Economics and Econometrics
 
-### Service
+### Service and Volunteering
 - Super-volunteer for the WiML 2021 workshop at NeurIPS
 - Volunteer poster mentor for the WiML 2020 workshop at NeurIPS
 
