@@ -8,9 +8,10 @@ title: Preprints | Publications
 
 Conditional COT-GAN for Video Prediction with Kernel Smoothing. **Xu T.** & Acciaio B. (2021). Preprint. [[Paper]](https://arxiv.org/pdf/2106.05658.pdf)
 
-SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss. Klemmer K.\*, **Xu T.\***, Acciaio B. and Neill D. (2021+). AAAI, accepted. [[Paper]](https://arxiv.org/pdf/2109.15044.pdf) [[Code]](https://github.com/konstantinklemmer/spate-gan)
-
 ### Publications
+
+
+SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss. Klemmer K.\*, **Xu T.\***, Acciaio B. and Neill D. (2022). AAAI. [[Paper]](https://arxiv.org/pdf/2109.15044.pdf) [[Code]](https://github.com/konstantinklemmer/spate-gan)
 
 Double Generative Adversarial Networks for Conditional Independence Testing. Shi C., **Xu T.**, Bergsma W, & Li L. (2021). 
 Journal of Machine Learning Research, 22(285) 1-32. [[Paper]](https://arxiv.org/pdf/2006.02615.pdf) [[Code]](https://github.com/tianlinxu312/dgcit) 
