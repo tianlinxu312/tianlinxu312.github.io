@@ -6,7 +6,7 @@ title: Preprints | Publications
 
 ### Preprints
 
-Conditional COT-GAN for Video Prediction with Kernel Smoothing. **Xu T.** & Acciaio B. (2021). Preprint. [[Paper]](https://arxiv.org/pdf/2106.05658.pdf)
+Conditional COT-GAN for Video Prediction with Kernel Smoothing. **Xu T.** & Acciaio B. (2022). Preprint. [[Paper]](https://arxiv.org/pdf/2106.05658.pdf)
 
 ### Publications
 
