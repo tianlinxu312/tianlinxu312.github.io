@@ -14,7 +14,7 @@ I am a final year PhD student of Statistics at London School of Economics, joint
 
 # News
 
-11 Apr 2022 - Started my internship at Qualcomm AI Research Amsterdam on the topic of generative compression!  
+11 Apr 2022 - Started my internship at Qualcomm AI Research Amsterdam on the topic of generative compression. 
 
 01 Dec 2021 - Our paper [SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss](https://arxiv.org/pdf/2109.15044.pdf) was accepted for presentation by AAAI.  
 
