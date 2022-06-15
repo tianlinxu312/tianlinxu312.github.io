@@ -20,7 +20,7 @@ title: Activities
 - Super-volunteer for the [WiML 2021 workshop](https://sites.google.com/view/wiml2021) at NeurIPS
 - Volunteer poster mentor for the [WiML 2020 workshop](https://wimlworkshop.org/neurips2020/) at NeurIPS
 
-{% include figure.html image="https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/I_review_JMLR.png" caption="JMLR" position="left" width="150" height="150" %}
+{% include figure.html image="https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/I_review_JMLR.png" position="left" width="200" height="200" %}
 
 
 
