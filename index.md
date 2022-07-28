@@ -1,14 +1,13 @@
 ---
 title: About Me
 feature_text: |
-  ## Tianlin Xu
+  ## Dr. Tianlin Xu
   PhD student in Statistics
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "I am a final year PhD student of Statistics at London School of Economics, jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). Before joining my PhD, I did my undergraduate study in Computer Science and masters in Mathematical Finance. My current research interests lie in deep generative models and computer vision."
+excerpt: "I am a Senior Machine Learning Scientist at Illumina, working on the development of novel deep learning algorithms for deciphering the human genetic code.  Previously I completed my doctoral degree in Statistics at London School of Economics, jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). Before starting my PhD, I did my undergraduate study in Computer Science and masters in Mathematical Finance. "
 ---
 
-I am a final year PhD student of Statistics at London School of Economics, jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). Before starting my PhD, I did my undergraduate study in Computer Science and masters in Mathematical Finance. My current research interests lie in deep generative models and computer vision, with a focus on the spatio-temporal domain.
-
+I am a Senior Machine Learning Scientist at Illumina, working on the development of novel deep learning algorithms for deciphering the human genetic code.  Previously I completed my doctoral degree in Statistics at London School of Economics, jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). Before starting my PhD, I did my undergraduate study in Computer Science and masters in Mathematical Finance. 
 
 {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=KPrpfPsAAAAJ&hl=en" color="#e6b800" %} {% include button.html text="Github" icon="github" link="https://github.com/tianlinxu312" color="#100008" %} {% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/tianlinxu" color="#ffb3b3" %}{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/linylinx" color="#0d94e7" %} {% include button.html icon="email" text="Email" link="mailto:tianlin.xu1@gmail.com" color="#bf80ff"%}
 
