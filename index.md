@@ -11,7 +11,7 @@ I am a Senior Machine Learning Scientist at Illumina, working on the development
 
 {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=KPrpfPsAAAAJ&hl=en" color="#e6b800" %} {% include button.html text="Github" icon="github" link="https://github.com/tianlinxu312" color="#100008" %} {% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/tianlinxu" color="#ffb3b3" %}{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/linylinx" color="#0d94e7" %} {% include button.html icon="email" text="Email" link="mailto:tianlin.xu1@gmail.com" color="#bf80ff"%}
 
-# News
+<!-- # News
 
 19 May 2022 - I successfully defended my PhD thesis!
  
@@ -19,4 +19,4 @@ I am a Senior Machine Learning Scientist at Illumina, working on the development
 
 01 Dec 2021 - Our paper [SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss](https://arxiv.org/pdf/2109.15044.pdf) was accepted for presentation by AAAI.  
 
-02 Nov 2021 - Our paper [Double Generative Adversarial Networks for Conditional Independence Testing](https://arxiv.org/pdf/2006.02615.pdf) was accepted by JMLR.  
+02 Nov 2021 - Our paper [Double Generative Adversarial Networks for Conditional Independence Testing](https://arxiv.org/pdf/2006.02615.pdf) was accepted by JMLR.   -->
