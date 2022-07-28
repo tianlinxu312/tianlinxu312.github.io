@@ -2,7 +2,7 @@
 title: About Me
 feature_text: |
   ## Dr. Tianlin Xu
-  PhD student in Statistics
+  Senior Machine Learning Scientist at Illumina
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am a Senior Machine Learning Scientist at Illumina, working on the development of novel deep learning algorithms for deciphering the human genetic code.  Previously I completed my doctoral degree in Statistics at London School of Economics, jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). Before starting my PhD, I did my undergraduate study in Computer Science and masters in Mathematical Finance. "
 ---
