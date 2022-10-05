@@ -71,14 +71,14 @@ navigation_footer:
 - title: Back to top
   url: "#top"
 
-# Collections
-collections:
-  posts:
-    title: Projects and ideas
-    output: true
-    description: "Random projects for fun."
-    feature_text: 
-    feature_image: "https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/blue.jpg"
+# # Collections
+# collections:
+#   posts:
+#     title: Projects and ideas
+#     output: true
+#     description: "Random projects for fun."
+#     feature_text: 
+#     feature_image: "https://github.com/tianlinxu312/tianlinxu312.github.io/raw/main/imgs/blue.jpg"
     
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
