@@ -63,8 +63,8 @@ navigation_header:
   url: /publications/
 - title: Activities
   url: /activities/
-- title: Projects
-  url: /blog/
+# - title: Projects
+#   url: /blog/
 
 # Footer nav
 navigation_footer:
