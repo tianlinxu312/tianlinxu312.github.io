@@ -16,7 +16,7 @@ Preprint. (2022).
 Conditional COT-GAN for Video Prediction with Kernel Smoothing. \
 [[Paper]](https://arxiv.org/pdf/2106.05658.pdf) \
 **Xu T.** and Acciaio B. \
-NeurIPS 2022 Workshop on Robustness in Sequence Modelling. (2022).
+NeurIPS Workshop on Robustness in Sequence Modelling. (2022).
 
 SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss. \
 [[Paper]](https://arxiv.org/pdf/2109.15044.pdf) [[Code]](https://github.com/konstantinklemmer/spate-gan) \
@@ -31,14 +31,14 @@ Journal of Machine Learning Research, 22(285) 1-32.
 Generative modeling of spatio-temporal weather patterns with extreme event conditioning. \
 [[Paper]](https://arxiv.org/pdf/2104.12469.pdf) \
 Klemmer K., Saha S., Kahl M., **Xu T.**, Zhu XX. \
-AIMOCC workshop, ICLR. (2021).\
+ICLR workshop on AIMOCC. (2021).
 
 COT-GAN: Generating Sequential Data via Causal Optimal Transport. \
 [[Paper]](https://papers.nips.cc/paper/2020/file/641d77dd5271fca28764612a028d9c8e-Paper.pdf) [[TensorFlow implementation]](https://github.com/tianlinxu312/cot-gan) [[PyTorch implementation]](https://github.com/tianlinxu312/cot-gan-pytorch) \
 **Xu T.**, Wenliang L., Munn M, & Acciaio B.  \
-Conference on Neural Information Processing Systems (NeurIPS). (2020).
+NeurIPS. (2020).
 
 Variational f-divergence Minimization. \
 [[Paper]](https://arxiv.org/pdf/1907.11891.pdf) \
 Zhang M., Bird T., Habib R., **Xu T.**, & Barber D. \
-Conference on Neural Information Processing Systems (NeurIPS) workshop. (2019). 
+NeurIPS workshop on Information Theory. (2019). 
