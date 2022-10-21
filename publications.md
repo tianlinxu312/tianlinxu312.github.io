@@ -6,12 +6,12 @@ title: Preprints | Publications
 
 ### Preprints
 
-Neural Image Compression with a Diffusion-based Decoder. Ghouse N., Petersen J., Wiggers A.J., **Xu T.**, Sautiere G. (2022). Preprint.
+Neural Image Compression with a Diffusion-based Decoder. Ghouse N., Petersen J., Wiggers A.J., **Xu T.**, and Sautiere G. (2022). Preprint.
 
 
 ### Publications
 
-Conditional COT-GAN for Video Prediction with Kernel Smoothing. **Xu T.** & Acciaio B. (2022). NeurIPS 2022 Workshop on Robustness in Sequence Modelling. [[Paper]](https://arxiv.org/pdf/2106.05658.pdf)
+Conditional COT-GAN for Video Prediction with Kernel Smoothing. **Xu T.** and Acciaio B. (2022). NeurIPS 2022 Workshop on Robustness in Sequence Modelling. [[Paper]](https://arxiv.org/pdf/2106.05658.pdf)
 
 SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss. Klemmer K.\*, **Xu T.\***, Acciaio B. and Neill D. (2022). AAAI. [[Paper]](https://arxiv.org/pdf/2109.15044.pdf) [[Code]](https://github.com/konstantinklemmer/spate-gan)
 
