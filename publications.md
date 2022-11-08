@@ -25,8 +25,8 @@ AAAI. (2021).
 
 Double Generative Adversarial Networks for Conditional Independence Testing. \
 [[Paper]](https://arxiv.org/pdf/2006.02615.pdf) [[Code]](https://github.com/tianlinxu312/dgcit) \
-Shi C., **Xu T.**, Bergsma W, & Li L. (2021). \
-Journal of Machine Learning Research, 22(285) 1-32. 
+Shi C., **Xu T.**, Bergsma W, & Li L. \
+Journal of Machine Learning Research, 22(285) 1-32. (2021).
 
 Generative modeling of spatio-temporal weather patterns with extreme event conditioning. \
 [[Paper]](https://arxiv.org/pdf/2104.12469.pdf) \
