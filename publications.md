@@ -7,6 +7,7 @@ title: Preprints | Publications
 ### Preprints
 
 Neural Image Compression with a Diffusion-based Decoder. \
+[[Paper]](https://arxiv.org/pdf/2301.05489.pdf) \
 Ghouse N., Petersen J., Wiggers A.J., **Xu T.**, and Sautiere G. \
 Preprint. (2022).
 
