@@ -17,6 +17,8 @@ title: Activities
 - 2018-2019 Summer school: ME116 Essential Statistics for Economics and Econometrics
 
 ### Service and Volunteering
+- Reviewer for Quantitative Finance
+- Reviewer for Journal of Machine Learning Research
 - Super-volunteer for the [WiML 2021 workshop](https://sites.google.com/view/wiml2021) at NeurIPS
 - Volunteer poster mentor for the [WiML 2020 workshop](https://wimlworkshop.org/neurips2020/) at NeurIPS
 
