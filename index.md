@@ -9,9 +9,13 @@ excerpt: "I am a Senior Deep Learning Scientist at Illumina Artificial Intellige
 
 I am a Senior Deep Learning Scientist at Illumina Artificial Intelligence Lab, working on the development of novel deep learning algorithms for deciphering the human genetic code.  Previously I completed my doctoral degree in Statistics at London School of Economics, jointly supervised by [Prof. Wicher Bergsma](https://www.lse.ac.uk/statistics/people/wicher-bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). Before starting my PhD, I did my undergraduate study in Computer Science and masters in Mathematical Finance. 
 
-{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=KPrpfPsAAAAJ&hl=en" color="#e6b800" %} {% include button.html text="Github" icon="github" link="https://github.com/tianlinxu312" color="#100008" %} {% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/tianlinxu" color="#ffb3b3" %}{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/linylinx" color="#0d94e7" %} {% include button.html icon="email" text="Email" link="mailto:tianlin.xu1@gmail.com" color="#bf80ff"%}
+{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=KPrpfPsAAAAJ&hl=en" color="#e6b800" %} {% include button.html text="Github" icon="github" link="https://github.com/tianlinxu312" color="#100008" %} {% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/tianlinxu" color="#ffb3b3" %} {% include button.html icon="email" text="Email" link="mailto:tianlin.xu1@gmail.com" color="#bf80ff"%}
+
+<!--- {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/linylinx" color="#0d94e7" %} --->
 
 <!-- # News
+
+01 August 2022 -- I started my new position as a Senior Deep Learning Scientist at Illumina. 
 
 19 May 2022 - I successfully defended my PhD thesis!
  
