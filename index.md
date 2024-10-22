@@ -2,7 +2,7 @@
 title: About Me
 feature_text: |
   ## Tianlin Xu
-  Machine Learning Tech Lead 
+  Senior Applied Scientist
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am a Senior Applied Scientist at UiPath. Previously, I spent time at Illumina Artificial Intelligence Lab and Qualcomm AI. Prior to joining the tech industry, I completed my doctoral degree in Statistics at London School of Economics, jointly supervised by [Prof. Wicher Bergsma](https://www.lse.ac.uk/statistics/people/wicher-bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). Before starting my PhD, I did my undergraduate study in Computer Science and masters in Mathematical Finance. "
 ---
